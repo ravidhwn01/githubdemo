@@ -1,1 +1,1 @@
-this is git tutorial 2
+this is git
